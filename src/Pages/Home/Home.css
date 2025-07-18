@@ -1,0 +1,36 @@
+.home-container {
+  min-height: 100vh;
+  background-color: #000;
+  color: #f1f1f1;
+  display: flex;
+  align-items: center;
+  padding: 3rem 1rem;
+}
+
+.brand {
+  color: #ffffff;
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: #ccc;
+}
+
+.btn-light {
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+
+.btn-outline-light {
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.btn-outline-light:hover {
+  background-color: #fff;
+  color: #000;
+}

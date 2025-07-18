@@ -1,0 +1,22 @@
+.not-authorized {
+    text-align: center;
+    padding: 4rem;
+    color: #444;
+}
+
+.not-authorized h1 {
+    font-size: 2.5rem;
+    color: #d9534f;
+    margin-bottom: 1rem;
+}
+
+.not-authorized a {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.not-authorized a:hover {
+    text-decoration: underline;
+}

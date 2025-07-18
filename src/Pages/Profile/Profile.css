@@ -1,0 +1,12 @@
+
+
+
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.profile-title {
+  font-weight: 600;
+  color: black !important;
+}
